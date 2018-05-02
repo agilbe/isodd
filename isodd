@@ -8,3 +8,5 @@ else:
 	number = input("Enter a number to determine if it is odd: ")
 
 webbrowser.open("https://www.wolframalpha.com/input/?i=is+" + str(number) + "+an+odd+number")
+
+sys.exit()
